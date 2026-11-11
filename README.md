@@ -12,6 +12,9 @@
   </p>
 <br>
 
+# ‼️I'm planning to migrate to Rust
+
+# What's sazanami
 **sazanami** analyzes your code changes and identifies which tests are affected, enabling faster feedback loops by running only the tests that matter.
 
 ## Features
